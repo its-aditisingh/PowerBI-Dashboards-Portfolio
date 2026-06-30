@@ -45,6 +45,6 @@ The objective of this portfolio is to demonstrate practical skills in data visua
 
 ## Connect With Me
 
-LinkedIn: (http://www.linkedin.com/in/adyti)
+LinkedIn: http://www.linkedin.com/in/adyti
 
-GitHub: (https://github.com/its-aditisingh)
+GitHub: https://github.com/its-aditisingh
