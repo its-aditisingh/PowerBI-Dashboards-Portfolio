@@ -24,10 +24,18 @@ MCA Graduate | Artificial Intelligence & Machine Learning Enthusiast | Data Anal
 
 ### EEG Analysis Dashboard
 
-* EEG Patient Overview 
-* Demographic Overview 
-* Disorder Analysis
-* EEG Signal Analysis
+Healthcare-focused dashboard developed for EEG data visualization and analytical reporting.
+
+Skills Used:
+Power BI
+Data Analytics
+Data Visualization
+Power Query
+DAX
+
+Project Folder:
+EEG Analysis Dashboard
+
 
 
 ## Tools & Technologies
