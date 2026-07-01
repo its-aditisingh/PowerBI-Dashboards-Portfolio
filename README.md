@@ -34,7 +34,7 @@ Power Query
 DAX
 
 Project Folder:
-EEG Analysis Dashboard
+[EEG Analysis Dashboard](./EEG-Analysis-Dashboard/README.md)
 
 
 
