@@ -27,10 +27,10 @@ MCA Graduate | Artificial Intelligence & Machine Learning Enthusiast | Data Anal
 Healthcare-focused dashboard developed for EEG data visualization and analytical reporting.
 
 Skills Used:
-Power BI
-Data Analytics
-Data Visualization
-Power Query
+Power BI,
+Data Analytics,
+Data Visualization,
+Power Query,
 DAX
 
 Project Folder:
