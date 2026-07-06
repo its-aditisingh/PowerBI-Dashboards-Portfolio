@@ -146,7 +146,7 @@ Supports exploratory analysis and advanced research-oriented investigations.
 
 ### Variant Risk Assessment Dashboard
 
-![Variant Risk Assessment](screenshots/Variant-risk-assessment-dashboard.png)
+![Variant Risk Assessment](screenshots/Variant-risk-Assessment-dashboard.png)
 
 ### Gene & Chromosome Analysis Dashboard
 
