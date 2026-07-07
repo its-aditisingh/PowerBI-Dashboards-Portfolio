@@ -1,6 +1,6 @@
-# 🧬 Cancer Variant Prioritization Dashboard
+#  Cancer Variant Prioritization Dashboard
 
-## 📖 Project Overview
+##  Project Overview
 
 The Cancer Variant Prioritization Dashboard is an interactive Power BI analytics solution designed to explore, evaluate, and prioritize genetic variants associated with cancer research and clinical interpretation.
 
@@ -8,9 +8,9 @@ Using genomic variant data, the dashboard transforms complex genetic information
 
 This project demonstrates the application of Business Intelligence and Data Visualization techniques in the field of Genomics and Healthcare Analytics.
 
----
 
-## 🎯 Project Objectives
+
+##  Project Objectives
 
 * Analyze genetic variant data across genes and chromosomes.
 * Evaluate variant pathogenicity and clinical significance.
@@ -18,9 +18,9 @@ This project demonstrates the application of Business Intelligence and Data Visu
 * Visualize genomic patterns through interactive dashboards.
 * Support data-driven decision-making in cancer variant research.
 
----
 
-## 📊 Dataset Description
+
+##  Dataset Description
 
 The dataset contains **10,000 genomic variant records** with information related to chromosome location, gene association, variant type, population frequency, pathogenicity prediction scores, and clinical significance.
 
@@ -38,9 +38,9 @@ The dataset contains **10,000 genomic variant records** with information related
 | PolyPhen              | Protein impact prediction              |
 | Clinical_Significance | Clinical classification of the variant |
 
----
 
-## 🛠 Tools & Technologies
+
+##  Tools & Technologies
 
 * Microsoft Power BI
 * Power Query
@@ -49,11 +49,11 @@ The dataset contains **10,000 genomic variant records** with information related
 * Data Modeling
 * Interactive Data Visualization
 
----
 
-## 📈 Dashboard Suite
 
-### 1️⃣ Executive Overview Dashboard
+##  Dashboard Suite
+
+###  Executive Overview Dashboard
 
 Provides a high-level summary of the entire dataset through key performance indicators and executive metrics.
 
@@ -66,9 +66,9 @@ Provides a high-level summary of the entire dataset through key performance indi
 * Population Frequency Overview
 * Interactive Filtering
 
----
 
-### 2️⃣ Variant Risk Assessment Dashboard
+
+###  Variant Risk Assessment Dashboard
 
 Focused on identifying potentially high-risk variants using predictive scoring metrics.
 
@@ -80,9 +80,9 @@ Focused on identifying potentially high-risk variants using predictive scoring m
 * High-Risk Variant Identification
 * Variant Prioritization Insights
 
----
 
-### 3️⃣ Gene & Chromosome Analysis Dashboard
+
+###  Gene & Chromosome Analysis Dashboard
 
 Analyzes variant distribution across genes and chromosomes.
 
@@ -94,9 +94,9 @@ Analyzes variant distribution across genes and chromosomes.
 * Variant Density Analysis
 * Comparative Genomic Insights
 
----
 
-### 4️⃣ Predictive Evidence Dashboard
+
+###  Predictive Evidence Dashboard
 
 Provides analytical insights using computational prediction metrics.
 
@@ -108,9 +108,9 @@ Provides analytical insights using computational prediction metrics.
 * Predictive Confidence Evaluation
 * Variant Impact Assessment
 
----
 
-### 5️⃣ Clinical Significance Deep Dive Dashboard
+
+###  Clinical Significance Deep Dive Dashboard
 
 Explores clinical classifications and their distribution.
 
@@ -122,9 +122,9 @@ Explores clinical classifications and their distribution.
 * Clinical Interpretation Support
 * Risk Categorization
 
----
 
-### 6️⃣ Research & Discovery Dashboard
+
+###  Research & Discovery Dashboard
 
 Supports exploratory analysis and advanced research-oriented investigations.
 
@@ -136,9 +136,9 @@ Supports exploratory analysis and advanced research-oriented investigations.
 * Advanced Filtering
 * Comparative Research Insights
 
----
 
-## 📸 Dashboard Previews
+
+##  Dashboard Previews
 
 ### Executive Overview Dashboard
 
@@ -166,7 +166,7 @@ Supports exploratory analysis and advanced research-oriented investigations.
 ![Research Dashboard](screenshots/research-discovery.png)
 
 
-## 🔍 Key Insights Generated
+##  Key Insights Generated
 
 * Distribution of variants across chromosomes and genes.
 * Identification of variants with elevated pathogenicity scores.
@@ -177,7 +177,7 @@ Supports exploratory analysis and advanced research-oriented investigations.
 
 
 
-## 💡 Skills Demonstrated
+##  Skills Demonstrated
 
 * Data Cleaning & Transformation
 * Power Query Development
@@ -191,7 +191,7 @@ Supports exploratory analysis and advanced research-oriented investigations.
 
 
 
-## 🚀 Project Outcome
+##  Project Outcome
 
 The Cancer Variant Prioritization Dashboard successfully converts large-scale genomic variant data into interactive analytical reports, enabling efficient exploration of genetic information and supporting research-driven decision-making in cancer genomics.
 
