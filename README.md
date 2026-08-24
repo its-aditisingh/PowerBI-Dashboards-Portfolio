@@ -36,6 +36,13 @@ DAX
 Project Folder:
 [EEG Analysis Dashboard](./EEG-Analysis-Dashboard/README.md)
 
+### Cancer Variant Analysis Dashboard
+
+Healthcare-focused dashboard developed for cancer genetic variant analysis, clinical significance assessment, risk evaluation, and research-oriented genomic insights.
+
+Skills Used: Power BI, Data Analytics, Data Visualization, Power Query, DAX
+
+Project Folder: [Cancer Variant Analysis Dashboard](./Cancer-Variant-Analysis-Dashboard/README.md)
 
 
 ## Tools & Technologies
