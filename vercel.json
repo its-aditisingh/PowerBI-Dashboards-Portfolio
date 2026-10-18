@@ -1,6 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/(.*)", "destination": "/https://github.com/its-aditisingh/PowerBI-Dashboards-Portfolio/EEG-Analysis-Dashboard/$1" }
-  ]
-}
-
